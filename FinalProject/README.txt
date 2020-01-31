@@ -3,10 +3,9 @@ Group Members:
     Roxanne Dewing
     Jamie Kihira
 
-Note that all code submitted is either written in python or bash so make is
-not required.
 
-Contents of Submission:
+
+Contents:
     1. sud2sat.py
        This program reads a partially solved sudoku puzzle and converts it to
        a CNF formula suitable for input to the miniSAT SAT solver.
